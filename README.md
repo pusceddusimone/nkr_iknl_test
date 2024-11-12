@@ -3,7 +3,7 @@ This repository contains the python notebook used to fine tune the following mod
 
 ## Steps to run
 1) Open a new kaggle notebook and import the provided ipynb file
-2) Import the following dataset to your kaggle notebook https://www.kaggle.com/datasets/simonepusceddu/nkr-iknl-breast-syntheticdata
+2) Upload the full 60k records to kaggle as a dataset, and call it "NKR_IKNL_breast_syntheticdata", import said dataset into your newly created notebook
 3) Add to the /kaggle/working directory the folds inside folds.zip
 
 
